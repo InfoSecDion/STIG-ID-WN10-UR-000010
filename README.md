@@ -1,7 +1,7 @@
-# STIG-ID-WN10-UR-000010
+# STIG-ID-WN10-UR-000010 - “Access this computer from the network” must be properly configured.
 
 ## Synopsis
-This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+This PowerShell script configures the “Access this computer from the network” (SeNetworkLogonRight) user right to ensure it matches DISA STIG requirements.
 
 ## Notes
 - **Author**: Dion Alexander
@@ -12,7 +12,7 @@ This PowerShell script ensures that the maximum size of the Windows Application 
 - **Version**: 1.0
 - **CVEs**: N/A
 - **Plugin IDs**: N/A
-- **STIG-ID**: WN10-AC-000005
+- **STIG-ID**: WN10-UR-000010
   
 ## Tested On
 - **Date(s) Tested**: 
