@@ -5,8 +5,8 @@ This PowerShell script configures the â€œAccess this computer from the networkâ€
 
 ## Notes
 - **Author**: Dion Alexander
-- **LinkedIn**: 
-- **GitHub**: 
+- **LinkedIn**: https://www.linkedin.com/in/infosecdion
+- **GitHub**: https://github.com/InfoSecDion
 - **Date Created**: 2025-11-20
 - **Last Modified**: 2025-11-20
 - **Version**: 1.0
